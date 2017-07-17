@@ -5,9 +5,8 @@ originally created by Weijun Zhang, Copyright 2001
 http://esd.cs.ucr.edu/labs/tutorial/
 
 Modified as a:      
-"Simple Computer Architecture using direct mapped cache"  
-University of New Brunswick, Universidad Mayor de San Andrés - UMSA
-			
+**"Simple Computer Architecture using direct mapped cache"**  
+University of New Brunswick, Universidad Mayor de San Andrés - UMSA         			
 Course: ECE6733 - "Computer Architecture Performance +"     
 Prof: Eduardo Castillo Guerra               
     
