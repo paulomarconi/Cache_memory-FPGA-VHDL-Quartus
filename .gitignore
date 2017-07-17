@@ -1,0 +1,35 @@
+# Ignore this folder 
+FinalProjectFico_quartus/*
+# except these files
+!FinalProjectFico_quartus/SimpleCompArch.qar
+!FinalProjectFico_quartus/alu.vhd
+!FinalProjectFico_quartus/bigmux.vhd
+!FinalProjectFico_quartus/controller.vhd
+!FinalProjectFico_quartus/CPU.vhd
+!FinalProjectFico_quartus/ctrl_unit.vhd
+!FinalProjectFico_quartus/datapath.vhd
+!FinalProjectFico_quartus/Deco4bit7segment.vhd
+!FinalProjectFico_quartus/hextodec.vhd
+!FinalProjectFico_quartus/IR.vhd
+!FinalProjectFico_quartus/jumpmux.vhd
+!FinalProjectFico_quartus/memory.vhd
+!FinalProjectFico_quartus/memory_simple.vhd
+!FinalProjectFico_quartus/memory_slow.vhd
+!FinalProjectFico_quartus/MP_lib.vhd
+!FinalProjectFico_quartus/obuf.vhd
+!FinalProjectFico_quartus/PC.vhd
+!FinalProjectFico_quartus/reg_file.vhd
+!FinalProjectFico_quartus/smallmux.vhd
+!FinalProjectFico_quartus/SimSimpleCompArch.vwf
+
+# Ignore these folders
+FinalProjectFico_docs/*
+# Except these
+!FinalProjectFico_docs/FinalProjectFico.mp4
+!FinalProjectFico_docs/nxn_matrix_multiplication.m
+!FinalProjectFico_docs/Project_Report/
+# Ignore this folder again
+FinalProjectFico_docs/Project_Report/*
+# Except these files inside that folder
+!FinalProjectFico_docs/Project_Report/Project_Report.pdf
+
