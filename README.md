@@ -11,9 +11,10 @@ Course: ECE6733 - "Computer Architecture Performance +"
 Prof: Eduardo Castillo Guerra               
     
     
-by: Paulo Loma Marconi 			prlomarconi@gmail.com       
-    César Claros Olivares   	cesar.claros@outlook.com        
-  	Abel Claros Olivares		abel.claros@gmail.com           
+by: 
+Paulo Loma Marconi 			prlomarconi@gmail.com       
+César Claros Olivares   	cesar.claros@outlook.com        
+Abel Claros Olivares		abel.claros@gmail.com           
         
 >- Review FinalProjectFico.mp4 and Project_Report.pdf
 >- Done in Quartus 16.1 and ModelSim 10.5b
