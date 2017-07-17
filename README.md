@@ -10,7 +10,6 @@ University of New Brunswick, Universidad Mayor de San Andrés - UMSA
 Course: ECE6733 - "Computer Architecture Performance +"     
 Prof: Eduardo Castillo Guerra               
     
-    
 by: 		
 Paulo Loma Marconi 			prlomarconi@gmail.com       
 César Claros Olivares   	cesar.claros@outlook.com        
