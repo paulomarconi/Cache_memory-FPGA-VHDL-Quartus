@@ -1,7 +1,7 @@
 # Ignore this folder 
 FinalProjectFico_quartus/*
 # except these files
-!FinalProjectFico_quartus/SimpleCompArch.qar
+!FinalProjectFico_quartus/SimpleCompArch.vhd
 !FinalProjectFico_quartus/alu.vhd
 !FinalProjectFico_quartus/bigmux.vhd
 !FinalProjectFico_quartus/controller.vhd
@@ -20,6 +20,7 @@ FinalProjectFico_quartus/*
 !FinalProjectFico_quartus/PC.vhd
 !FinalProjectFico_quartus/reg_file.vhd
 !FinalProjectFico_quartus/smallmux.vhd
+!FinalProjectFico_quartus/SimpleCompArch.qar
 !FinalProjectFico_quartus/SimSimpleCompArch.vwf
 
 # Ignore these folders
