@@ -11,7 +11,7 @@ Course: ECE6733 - "Computer Architecture Performance +"
 Prof: Eduardo Castillo Guerra               
     
     
-by: 
+by: 		
 Paulo Loma Marconi 			prlomarconi@gmail.com       
 César Claros Olivares   	cesar.claros@outlook.com        
 Abel Claros Olivares		abel.claros@gmail.com           
