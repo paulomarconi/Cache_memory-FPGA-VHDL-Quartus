@@ -20,5 +20,5 @@ Abel Claros Olivares		abel.claros@gmail.com
 >- Review FinalProjectFico_docs/FinalProjectFico.mp4 and FinalProjectFico_docs/Project_Report.pdf
 >- Open SimpleCompArch.qar archive project, compile and simulate with ModelSim, set time simulation to 17 ns to see all resultant elements of matrix C.
 >- Project done in Quartus 16.1 and ModelSim 10.5b
->- FinalProjectFico.mp4 uploaded to Youtube https://www.youtube.com/watch?v=Zvd96RGTEjk
+>- FinalProjectFico.mp4 uploaded to  https://www.youtube.com/watch?v=Zvd96RGTEjk
 
