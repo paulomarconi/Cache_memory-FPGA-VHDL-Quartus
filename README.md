@@ -15,9 +15,10 @@ by:
 Paulo Loma Marconi 			prlomarconi@gmail.com       
 César Claros Olivares   	cesar.claros@outlook.com        
 Abel Claros Olivares		abel.claros@gmail.com           
-        
->- Review FinalProjectFico.mp4 and Project_Report.pdf
->- Done in Quartus 16.1 and ModelSim 10.5b
+
+>- Open Guidelines__P2_W17.pdf       
+>- Review FinalProjectFico_docs/FinalProjectFico.mp4 and FinalProjectFico_docs/Project_Report.pdf
 >- Open SimpleCompArch.qar archive project, compile and simulate with ModelSim, set time simulation to 17 ns to see all resultant elements of matrix C.
->- https://www.youtube.com/watch?v=Zvd96RGTEjk
+>- Project done in Quartus 16.1 and ModelSim 10.5b
+>- FinalProjectFico.mp4 uploaded to Youtube https://www.youtube.com/watch?v=Zvd96RGTEjk
 
