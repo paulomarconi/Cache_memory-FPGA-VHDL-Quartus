@@ -1,3 +1,6 @@
+# Ignore these files
+.gitattributes
+.gitignore
 # Ignore this folder 
 FinalProjectFico_quartus/*
 # except these files
