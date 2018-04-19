@@ -24,3 +24,5 @@ Abel Claros Olivares		abel.claros@gmail.com
 >- Project done in Quartus 16.1 and ModelSim 10.5b
 >- FinalProjectFico.mp4 uploaded to  https://www.youtube.com/watch?v=Zvd96RGTEjk
 
+License:
+CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
