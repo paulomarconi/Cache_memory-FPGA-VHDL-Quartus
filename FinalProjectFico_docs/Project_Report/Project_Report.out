@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Design}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Reference system modifications}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Multiplication}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Indexed-memory read}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Jump if not equal}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Increment}{subsection.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Register-to-register move}{subsection.2.1}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.6}{Indexed memory out}{subsection.2.1}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.7}{Reference system's instruction set}{subsection.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.2}{Cache implementation}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Memory organization}{subsection.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Data transfer}{subsection.2.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Cache controller}{subsection.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.3}{Program design}{section.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Matrix generator}{subsection.2.3}% 16
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Matrix multiplication}{subsection.2.3}% 17
+\BOOKMARK [1][-]{section.3}{Results}{}% 18
+\BOOKMARK [2][-]{subsection.3.1}{Matlab code}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.2}{Compilation instructions}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.3}{Cache memory simulation}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.4}{Cache controller execution}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.5}{Cache memory timing}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.6}{Simple memory timing}{section.3}% 24
+\BOOKMARK [2][-]{subsection.3.7}{Unexpected compilation error}{section.3}% 25
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 26
